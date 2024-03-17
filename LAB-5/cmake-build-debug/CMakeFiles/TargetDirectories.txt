@@ -1,0 +1,3 @@
+C:/Users/malik/OneDrive/Desktop/CODE/OOP LAB 5/cmake-build-debug/CMakeFiles/OOP_LAB_5.dir
+C:/Users/malik/OneDrive/Desktop/CODE/OOP LAB 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/malik/OneDrive/Desktop/CODE/OOP LAB 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
